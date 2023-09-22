@@ -14,7 +14,6 @@
 		<file name="race-duergar.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide/races/race-duergar.xml" />
 		<file name="race-ghostwisehalfling.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide/races/race-ghostwisehalfling.xml" />
 		<file name="race-svirfneblin.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide/races/race-svirfneblin.xml" />
-		<file name="variant-tiefling.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide/races/variant-tiefling.xml" />
 		<file name="variant-half-elf.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide/races/variant-half-elf.xml" />
 
 		<!-- archetypes -->
